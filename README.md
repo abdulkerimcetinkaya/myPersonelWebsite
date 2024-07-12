@@ -1,6 +1,6 @@
 # Basic Personel Website
 This is a Personel Websites
-# Used Tecnologies
+### Used Tecnologies
 - HTML
 - CSS
 - JavaScript
